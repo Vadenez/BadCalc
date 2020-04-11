@@ -1,5 +1,8 @@
-# BadCalc/Joe's Calculator [![C++](https://img.shields.io/badge/language-C%2B%2B-%23f34b7d.svg?style=plastic)](https://en.wikipedia.org/wiki/C%2B%2B)
-A bad calculator I made about 4 years ago when I was bored...
+# BadCalc/Joe's Calculator
+[![C++](https://img.shields.io/badge/language-C%2B%2B-%23f34b7d.svg?style=plastic)](https://en.wikipedia.org/wiki/C%2B%2B)
+[![License](https://img.shields.io/github/license/danielkrupinski/Osiris.svg?style=plastic)](LICENSE)
+### Description:
+A bad calculator I made about 4 years ago when I was bored and figuring out how to code in C++.
 ### Contains:
 * Division
 * Multiplication
