@@ -3,6 +3,7 @@
 [![License](https://img.shields.io/github/license/danielkrupinski/Osiris.svg?style=plastic)](LICENSE)
 ### Description:
 A bad calculator I made about 4 years ago when I was bored and figuring out how to code in C++.
+
 ### Contains:
 * Division
 * Multiplication
@@ -11,11 +12,9 @@ A bad calculator I made about 4 years ago when I was bored and figuring out how 
 * Raising to a power: squaring, cubing etc..
 
 ### Made:
-
 This was made using CodeBlocks v13.12 and compiled using CodeBlocks v13.12 with GNU GCC
 
 ### Plans:
-
 I plan on converting it from CodeBlocks to Visual Studios 2019
 
 ### Links:
@@ -23,6 +22,7 @@ I plan on converting it from CodeBlocks to Visual Studios 2019
 * Visual Studios 2019: https://visualstudio.microsoft.com/vs/
 * GNU GCC: https://gcc.gnu.org/
 * C++: https://en.wikipedia.org/wiki/C%2B%2B
+
 ## MIT License
 
 > Copyright (c) 2020 Joseph Lavoie
