@@ -1,4 +1,4 @@
-# BadCalc [![C++](https://img.shields.io/badge/language-C%2B%2B-%23f34b7d.svg?style=plastic)](https://en.wikipedia.org/wiki/C%2B%2B)
+# BadCalc/Joe's Calculator [![C++](https://img.shields.io/badge/language-C%2B%2B-%23f34b7d.svg?style=plastic)](https://en.wikipedia.org/wiki/C%2B%2B)
 A bad calculator I mad about 4 years ago when I was bored...
 ### Contains:
 * Division
@@ -9,11 +9,11 @@ A bad calculator I mad about 4 years ago when I was bored...
 
 ### Made:
 
-This was made using CodeBlocks and compiled using CodeBlocks.
+This was made using CodeBlocks and compiled using CodeBlocks with GNU GCC
 
 ## MIT License
 
-> Copyright (c) [2020] [Joseph Lavoie]
+> Copyright (c) 2020 Joseph Lavoie
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
