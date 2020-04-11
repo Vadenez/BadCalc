@@ -1,5 +1,5 @@
 # BadCalc/Joe's Calculator [![C++](https://img.shields.io/badge/language-C%2B%2B-%23f34b7d.svg?style=plastic)](https://en.wikipedia.org/wiki/C%2B%2B)
-A bad calculator I mad about 4 years ago when I was bored...
+A bad calculator I made about 4 years ago when I was bored...
 ### Contains:
 * Division
 * Multiplication
