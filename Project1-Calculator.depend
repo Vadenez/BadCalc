@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1541459404 source:f:\documents\schooling\c++\codeblockc++\project1-calculator\main.cpp
+	<iostream>
+
+1541377414 source:f:\documents\schooling\c++\codeblockc++\project1-calculator\divide.cpp
+	<iostream>
+
+1541381098 source:f:\documents\schooling\c++\codeblockc++\project1-calculator\add.cpp
+	<iostream>
+
+1541381096 source:f:\documents\schooling\c++\codeblockc++\project1-calculator\multiply.cpp
+	<iostream>
+
+1541381098 source:f:\documents\schooling\c++\codeblockc++\project1-calculator\subtract.cpp
+	<iostream>
+
+1541456004 f:\documents\schooling\c++\codeblockc++\project1-calculator\globalvariable.h
+
+1541459308 source:f:\documents\schooling\c++\codeblockc++\project1-calculator\power.cpp
+	<iostream>
+
