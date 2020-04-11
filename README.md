@@ -7,6 +7,9 @@ A bad calculator I mad about 4 years ago when I was bored...
 * Subtraction
 * Raising to a power: squaring, cubing etc..
 
+### Made:
+
+This was made using CodeBlocks and compiled using CodeBlocks.
 
 ## MIT License
 
