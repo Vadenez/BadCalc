@@ -5,6 +5,7 @@ A bad calculator I mad about 4 years ago when I was bored...
 * Multiplication
 * Addition
 * Subtraction
+* Raising to a power: squaring, cubing etc..
 
 
 ## MIT License
