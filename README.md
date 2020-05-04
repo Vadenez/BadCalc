@@ -9,13 +9,13 @@ A bad calculator I made about 4 years ago when I was bored and figuring out how 
 * Multiplication
 * Addition
 * Subtraction
-* Raising to a power: squaring, cubing etc..
+* Raising to a power: squaring, cubing etc. up until the power of 10
 
 ### Made:
-This was made using CodeBlocks v13.12 and compiled using CodeBlocks v13.12 with GNU GCC
+This was FIRST made using CodeBlocks v13.12 and is now been transferred to Visual Studios 2019
 
 ### Plans:
-I plan on converting it from CodeBlocks to Visual Studios 2019
+NONE
 
 ### Links:
 * CodeBlocks: http://www.codeblocks.org/
